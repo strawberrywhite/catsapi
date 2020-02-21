@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/catsapi/static/css/main.d1b05096.chunk.css",
+    "main.js": "/catsapi/static/js/main.c810a27c.chunk.js",
+    "main.js.map": "/catsapi/static/js/main.c810a27c.chunk.js.map",
+    "runtime-main.js": "/catsapi/static/js/runtime-main.04f50e5e.js",
+    "runtime-main.js.map": "/catsapi/static/js/runtime-main.04f50e5e.js.map",
+    "static/js/2.27aa35fc.chunk.js": "/catsapi/static/js/2.27aa35fc.chunk.js",
+    "static/js/2.27aa35fc.chunk.js.map": "/catsapi/static/js/2.27aa35fc.chunk.js.map",
+    "index.html": "/catsapi/index.html",
+    "precache-manifest.afdba28310c9219446342922a5d4b639.js": "/catsapi/precache-manifest.afdba28310c9219446342922a5d4b639.js",
+    "service-worker.js": "/catsapi/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/catsapi/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.27aa35fc.chunk.js.LICENSE.txt": "/catsapi/static/js/2.27aa35fc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.04f50e5e.js",
+    "static/js/2.27aa35fc.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.c810a27c.chunk.js"
+  ]
+}
